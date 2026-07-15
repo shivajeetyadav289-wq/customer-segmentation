@@ -1,0 +1,33 @@
+duplicate_rows: 0
+missing_columns: []
+missing_values:
+  AcceptedCmp1: 0
+  AcceptedCmp2: 0
+  AcceptedCmp3: 0
+  AcceptedCmp4: 0
+  AcceptedCmp5: 0
+  Complain: 0
+  Dt_Customer: 0
+  Education: 0
+  ID: 0
+  Income: 19
+  Kidhome: 0
+  Marital_Status: 0
+  MntFishProducts: 0
+  MntFruits: 0
+  MntGoldProds: 0
+  MntMeatProducts: 0
+  MntSweetProducts: 0
+  MntWines: 0
+  NumCatalogPurchases: 0
+  NumDealsPurchases: 0
+  NumStorePurchases: 0
+  NumWebPurchases: 0
+  NumWebVisitsMonth: 0
+  Recency: 0
+  Response: 0
+  Teenhome: 0
+  Year_Birth: 0
+  Z_CostContact: 0
+  Z_Revenue: 0
+validation_status: true
