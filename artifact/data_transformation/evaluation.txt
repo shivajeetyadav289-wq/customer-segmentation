@@ -1,0 +1,8 @@
+Algorithm Comparison
+--------------------------
+KMeans: 0.3132
+Agglomerative: 0.2544
+DBSCAN: 0.0955
+
+Best Algorithm: KMeans
+Best Score: 0.3132
